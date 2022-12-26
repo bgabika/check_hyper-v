@@ -4,7 +4,7 @@
 COREX Microsoft Hyper-V check plugin for Icinga 2
  
 ### Features
- - checks Microsoft Hyper-V service & feature state
+ - checks Microsoft Hyper-V service & feature state over SSH
  - checks VMs state: cpu, memory usage, connected switch, VM health, uptime
  - prints performance data for Icinga 2 Graphite Module ( and other solutions like Graphite )
  - warning/critical thresholds for cpu and memory check
